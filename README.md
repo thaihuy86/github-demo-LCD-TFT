@@ -1,2 +1,2 @@
-# productsensorv2
+# ProductSensorV2
 
